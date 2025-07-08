@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# MacOS and system files
+.DS_Store
+
+# Logs and outputs
+*.log
+
+# gRPC-generated code (optional - if you don't want to track generated files)
+*_pb2.py
+*_pb2_grpc.py
+
+# Data files
+/data/*
+!data/.gitkeep
+
+# Credentials or tokens
+*.key
+*.token
