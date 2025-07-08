@@ -1,4 +1,8 @@
-grpcio
-grpcio-tools
 transformers
 torch
+grpcio==1.64.0
+grpcio-tools==1.64.0
+protobuf==4.25.3
+nltk==3.8.1
+spacy==3.7.4
+
